@@ -3,11 +3,13 @@
 ### Project title: Data analysis
 
 ### Project Overview
+---
 The goal of this project is to develop efficient, accurate, and organised data entry process using microsoft excel
 
 ### Data sources
-
-### Tools Used .
+---
+### Tools Used
+---
 - Microsoft excel [download here](website address)
    1. Data entry
    2. Data cleaning
@@ -18,6 +20,7 @@ The goal of this project is to develop efficient, accurate, and organised data e
 - Github for portfolio building
 
 ### Data cleaning and preparations
+---
  1. Data loading and inspection
  2. Handling missing variables
  3. Data cleaning and formatting
