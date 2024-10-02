@@ -20,10 +20,9 @@ The goal of this project is to develop efficient, accurate, and organised data e
 - Github for portfolio building
 
 ### Data cleaning and preparations
----
- 1. Data loading and inspection
- 2. Handling missing variables
- 3. Data cleaning and formatting
+ - Data loading and inspection
+ - Handling missing variables
+ -  Data cleaning and formatting
 
 ### Exploratory data analysis
 - What is the overall sales trent?
